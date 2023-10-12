@@ -3,4 +3,4 @@ image:
 
 tasks:
   - name: Set Kubeconfig
-    init: curl -sSf https://raw.githubusercontent.com/WasmEdge/WasmEdge/master/utils/install.sh | bash
+    init: curl -sSf https://raw.githubusercontent.com/WasmEdge/WasmEdge/master/utils/install.sh | bash a ; source /home/gitpod/.bashrc
